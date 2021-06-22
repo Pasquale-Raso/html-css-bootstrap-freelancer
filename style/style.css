@@ -1,3 +1,30 @@
 body{
     background-color: blanchedalmond;
 }
+.header{
+    background-color: blueviolet;
+}
+
+.start{
+    background-color: rgb(24, 135, 179);
+    height: 70px;
+}
+
+.icona{
+    background-color: rgb(103, 102, 104);
+    height: 70px;
+}
+
+.main{
+    background-color: rgb(23, 190, 140);
+    height: 400px;
+}
+
+.profilo{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+}
+
+.picture{
+    background-color: rgb(243, 0, 0);
+}
