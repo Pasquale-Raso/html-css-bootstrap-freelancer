@@ -23,44 +23,26 @@ body{
     border-color: white;
     color: white;
 }
-
-
-
-
-
-
-
-
-
-
-.icona{
-    background-color: rgb(103, 102, 104);
-    height: 70px;
-}
-
-
-
-
-
-
-.contact-me{
-    background-color: white;
-    height: 300px;
-    display: flex;
-    justify-content: center;
-}
-
-.contact-me-title{
-    border: 1px solid black;
-    display: flex;
-    justify-content: center;
-}
-
 .form{
-    border: 1px solid black;
-    display: flex;
-    justify-content: center;
+    text-align: left;
 }
+.form .form-control{
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid gray;
+}
+.bg-grren{
+    background-color: rgb(23, 190, 140);;
+
+}
+
+
+
+
+
+
+
+
 
 .footer{
     background-color: rgb(58, 84, 109);
