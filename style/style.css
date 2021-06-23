@@ -18,7 +18,6 @@ body{
     background-color: rgb(26, 188, 156);
     color: white;
 }
-
 .bottone{
     border-color: white;
     color: white;
@@ -32,30 +31,17 @@ body{
     border-bottom: 1px solid gray;
 }
 .bg-grren{
-    background-color: rgb(23, 190, 140);;
-
+    background-color: rgb(23, 190, 140);
 }
-
-
-
-
-
-
-
-
-
 .footer{
     background-color: rgb(58, 84, 109);
-    display: flex;
-    justify-content: center;
+    color: white;
 }
-
-.location, .around, .freelancer{
-    border: 1px solid black;
-    height: 250px;
-}
-
 .copyright{
     background-color: rgb(44, 62, 80);
-    height: 100px;
+    color: white;
+}
+.footer a{
+    text-decoration: none;
+    color: greenyellow;
 }
