@@ -11,18 +11,27 @@ body{
     background-color: rgb(23, 190, 140);
     color: white;
 }
-
-
-
-
-.header{
-    background-color: blueviolet;
+.picture img{
+    height: 250px;
+}
+.about{
+    background-color: rgb(26, 188, 156);
+    color: white;
 }
 
-.start{
-    background-color: rgb(24, 135, 179);
-    height: 70px;
+.bottone{
+    border-color: white;
+    color: white;
 }
+
+
+
+
+
+
+
+
+
 
 .icona{
     background-color: rgb(103, 102, 104);
@@ -31,34 +40,8 @@ body{
 
 
 
-.foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
-    height: 300px;
-    justify-content: center;
-    display: flex;
-}
 
-.about{
-    background-color: rgb(26, 188, 156);
-    display: flex;
-    justify-content: center;
-}
 
-.abaut-tex{
-    display: flex;
-    justify-content: center;
-    border: 1px solid black;
-}
-
-.download{
-    display: flex;
-    justify-content: center;
-    border: 1px solid black;
-}
-
-.tex1, .tex2{
-    border: 1px solid black;
-    height: 250px;
-}
 
 .contact-me{
     background-color: white;
@@ -94,4 +77,3 @@ body{
     background-color: rgb(44, 62, 80);
     height: 100px;
 }
-
